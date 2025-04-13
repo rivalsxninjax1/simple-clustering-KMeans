@@ -4,8 +4,8 @@
 This project demonstrates how to perform customer segmentation using the KMeans clustering algorithm on a real-life dataset. The dataset, `customers.csv`, contains customer details such as `CustomerID`, `Age`, `AnnualIncome`, and `SpendingScore`. This example focuses on clustering customers based on their annual income and spending score.
 
 ## Files
-- `customers.csv`: A CSV file containing customer data.
-- `clustering.py`: A Python script that reads the CSV data, performs clustering using KMeans, and visualizes the results.
+- `data.csv`: A CSV file containing customer data.
+- `main.py`: A Python script that reads the CSV data, performs clustering using KMeans, and visualizes the results.
 - `README.md`: This file that describes the project and provides instructions.
 
 ## How to Run
@@ -29,8 +29,8 @@ This project demonstrates how to perform customer segmentation using the KMeans 
    Make sure you have Python and the necessary libraries installed (pandas, matplotlib, seaborn, scikit-learn).
 
 2. **Save the Files:**  
-   - Create a file called `customers.csv` and paste the CSV content provided above.
-   - Create a file called `clustering.py` and paste the Python code provided.
+   - Create a file called `data.csv` and paste the CSV content provided above.
+   - Create a file called `main.py` and paste the Python code provided.
    - Create a file called `README.md` and paste the README content.
 
 3. **Run the Script:**  
