@@ -38,3 +38,4 @@ This project demonstrates how to perform customer segmentation using the KMeans 
    ```bash
    python clustering.py
 # simple-clustering-KMeans
+# simple-clustering-KMeans
